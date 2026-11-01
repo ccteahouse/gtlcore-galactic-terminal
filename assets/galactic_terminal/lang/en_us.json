@@ -1,0 +1,6 @@
+{
+  "modmenu.nameTranslation.galactic_terminal": "Galactic Terminal",
+  "modmenu.descriptionTranslation.galactic_terminal": "A science-fiction route selection and terminal configuration interface.",
+  "galactic_terminal.world_lock.badge": "LOCKED",
+  "galactic_terminal.world_lock.tooltip": "Skyblock saves cannot be opened in Continental mode. Select Broken Dimension in the Galactic Terminal first."
+}

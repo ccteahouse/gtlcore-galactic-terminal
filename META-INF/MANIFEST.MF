@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Specification-Title: galactic-terminal-resources
+Implementation-Title: galactic-terminal
+Implementation-Version: 1.0.5
+

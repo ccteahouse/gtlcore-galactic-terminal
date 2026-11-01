@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="galactic_terminal"
+version="1.0.5"
+displayName="Galactic Terminal / 泛银河终端"
+authors="Codex"
+description='''
+A science-fiction route-selection terminal for GregTech Leisure.
+It appears before the title menu on first use and can be reopened from the title screen.
+The selected GTLCore route also controls which world types and existing skyblock saves are accessible.
+'''
+
+[[dependencies.galactic_terminal]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.4.16,)"
+
+[[dependencies.galactic_terminal]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.20.2)"
+
+[[dependencies.galactic_terminal]]
+    modId="gtlcore"
+    mandatory=false
+    versionRange="[1.2.3.3,)"
+

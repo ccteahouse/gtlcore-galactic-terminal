@@ -1,0 +1,6 @@
+{
+  "modmenu.nameTranslation.galactic_terminal": "泛银河终端",
+  "modmenu.descriptionTranslation.galactic_terminal": "泛银河格雷科技公司航线选择与终端配置界面。",
+  "galactic_terminal.world_lock.badge": "已锁定",
+  "galactic_terminal.world_lock.tooltip": "大陆模式下无法打开空岛存档。请先在泛银河终端选择“崩溃的维度”。"
+}
